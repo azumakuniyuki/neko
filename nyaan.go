@@ -1,6 +1,7 @@
 package neko
+
 import "fmt"
 
 func Nyaan() {
-  fmt.Println("ニャーン")
+	fmt.Println("ニャーン")
 }
